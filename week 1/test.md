@@ -12,7 +12,7 @@
 
 ## Click to This link if you want to know more about  [Client Server Model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 ## This Figure represent  the client server model:
-![](images\CSM.png)
+![images\API.png](https://github.com/ahmdeltoky03/IEEE_Tasks/blob/main/week%201/images/CSM.png)
 ---------------------------
 # HTTP
 # `2. What is HTTP? 💻 `<br>
@@ -21,7 +21,7 @@
 
 
 # باختصار هو حلقة وصل بين الكلينت والسيرفر  
-![](images\HTTP.png)
+![images\API.png](https://github.com/ahmdeltoky03/IEEE_Tasks/blob/main/week%201/images/HTTP.png)
 ## Click to This link if you want to know more about  [HTTP](https://en.wikipedia.org/wiki/HTTP)
 
 ---------------------------
@@ -32,7 +32,7 @@
 #### -It's Distributed application , in which part is front-end and another part is Back-end and we connect between them using API.
 # الويب ابلكيشن هو تطبيق بيرن علي سيرفر كبير وممكن نرن اكتر من تطيبق علي السيرفر الواحد.السيرفر الكبير بيserve دينامك سايت مش استاتك سايت.
 
-![](images\API.png)
+![images\API.png](https://github.com/ahmdeltoky03/IEEE_Tasks/blob/main/week%201/images/API.png)
 
 ## Click to This link if you want to know more about  [Web Application](https://en.wikipedia.org/wiki/Web_application)
 
@@ -103,4 +103,4 @@
 #### view : الجزء اللي بيinteract مع ال اليوزر 
 #### model : الجزء اللي بيتعامل مع الداتا بيز
 #### controller : الجزء اللي بيربط بين ال view  وال model 
-![](images\MVC.png)
+![images\API.png](https://github.com/ahmdeltoky03/IEEE_Tasks/blob/main/week%201/images/MVC.png)
